@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Olá, sou a Vanessa Rocha, Designer UI/UX de aplicativos e sites e desenvolvedora web Front-End.
+Designer UI/UX de aplicativos e sites e desenvolvedora web Front-End.
 
 Trabalho profissionalmente com design desde 2016, e desde então busco aprimorar e adquirir cada vez mais conhecimento. Desenvolvi pesquisas sobre Scrum e TDD, aplicações web em Asp.net com MVC e trabalhei com sites em PHP Wordpress. Possuo conhecimentos em ferramentas de edição de imagem e criações gráficas e trabalho atualmente com aplicações em Vue.js. Estou sempre em busca de novas oportunidades e projetos, aventuras e desafios na área da computação.
 
