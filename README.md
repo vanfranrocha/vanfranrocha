@@ -26,3 +26,10 @@ Trabalho profissionalmente com design desde 2016, e desde então busco aprimorar
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" style="max-width:100%;"></img>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="javascript" width="40" height="40" style="max-width:100%;"></img>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-original.svg" alt="javascript" width="40" height="40" style="max-width:100%;"></img>
+
+# Estatísticas:
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vanfranrocha&layout=compact&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vanfranrocha&show_icons=true&theme=radical)
+
+
