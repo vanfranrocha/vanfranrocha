@@ -30,6 +30,6 @@ Trabalho profissionalmente com design desde 2016, e desde então busco aprimorar
 # Estatísticas:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vanfranrocha&layout=compact&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vanfranrocha&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vanfranrocha&show_icons=true&theme=radical&include_all_commits=true)
 
 
